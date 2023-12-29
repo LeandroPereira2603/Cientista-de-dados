@@ -7,7 +7,7 @@
 <p>
 tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decisão . </p>
 
-<p> **Exemplo** : Utilizando a linguagem de programação python importando a bibliote pandas para estátistica , modelando os dados da extensão do arquivo .csv </p>
+<p> <b>Exemplo</b> : Utilizando a linguagem de programação python importando a bibliote pandas para estátistica , modelando os dados da extensão do arquivo .csv </p>
 
 ```python 
 import panda as pd 

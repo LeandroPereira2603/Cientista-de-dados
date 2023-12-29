@@ -15,6 +15,7 @@ import math *
 
 '''
 
+'''python
 
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
 

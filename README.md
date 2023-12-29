@@ -9,13 +9,13 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 ### **Exemplo** : Utilizando a linguagem de programação pytho imoortando a bibliote pandas para estátistica , modelando os dados da extensão do arquivo .csv 
 
-'''python 
+```python 
 import panda as pd 
 import math * 
 
-'''
+```
 
-'''python
+```python
 
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
 
@@ -34,5 +34,5 @@ for k range (0,c)
 
 
 
-'''
+```
 

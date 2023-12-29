@@ -28,7 +28,7 @@ for k range (0,c):
 
  for i range (0,10):
    result = n * i;
-   print (' ',n,' x ',i,' = ',result)
+   print (' ',n,' x ',i,' = ',result);
  n++; 
 
 

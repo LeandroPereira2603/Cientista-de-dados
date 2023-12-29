@@ -19,7 +19,7 @@ import math *
 
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
 
-c = imput(int(print('Digite o número ') 
+c = imput(int(print('Digite o número ');
 c++;
 
 n = 0 ;

@@ -1,5 +1,5 @@
 # Cientista-de-dados
- Linguagens : R , Julia ,Python
+ Sofware e recursos utilizado : Linguagens : R , Julia ,Python
 
 ## Sobre a ciência de dados :
 

@@ -3,7 +3,7 @@
  <br>
  Metodologia : Machine Learning , Deep Learning 
 
-## Sobre a ciência de dados :
+## Sobre a função do cientista de dados :
 
 <p> O cientista de dados e responsável em fazer vários modelos conceituais , como um modelo de previsão de lucro , modelo de tendência , modelo de estatistica ,  podendo ter infinita possibilidade de criações de modelos .</p>
 <p>

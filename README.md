@@ -1,5 +1,7 @@
 # Cientista-de-dados
- Sofware e recursos utilizado : Linguagens : R , Julia ,Python
+  Linguagens : R , Julia ,Python
+ <br>
+ Metodologia : Machine Learning , Deep Learning 
 
 ## Sobre a ciência de dados :
 

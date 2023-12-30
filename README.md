@@ -15,24 +15,4 @@ import math *
 
 ```
 
-```python
-
-## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
-
-c = input(printf('Digite o número '));
-c++;
-
-n = 0 ;
-
-for k range (0,c):
-
- for i range (0,10):
-   result = n * i;
-   print (' ',n,' x ',i,' = ',result);
- n++; 
-
-
-
-
-```
 

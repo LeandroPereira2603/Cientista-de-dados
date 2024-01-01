@@ -23,6 +23,9 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 | Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 0 | 
 
+
+* [install anaconda ]()
+
 ```python 
 import panda as pd 
 import math * 

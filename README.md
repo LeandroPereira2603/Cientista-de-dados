@@ -27,6 +27,8 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 ### Sobre e instaçôes de softwares e complementos (Wiki) :
 * [Anaconda](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es)
+### Ulizar o Anaconda navigator :
+* [ Criando ambiente  ]
 
 ### Linguagem de programação Python (repositório) :
 * ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)

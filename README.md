@@ -24,7 +24,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 | Código Fonte - local do repositório | ☕| 0 | 
 
 
-* [install anaconda ]()
+* [install anaconda ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es)
 
 ```python 
 import panda as pd 

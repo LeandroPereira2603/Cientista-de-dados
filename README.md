@@ -29,7 +29,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 * [install anaconda ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es);
 
 ### Linguagem de programação Python :
-*[Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
+* [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
 ```python 
 import panda as pd 

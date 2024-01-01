@@ -23,12 +23,12 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 | Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 1 | 
 
-## 📚 Tópicos de estudos (Wiki) 
+## 📚 Tópicos de estudos  
 
-### Sobre e instaçôes de softwares e complementos :
+### Sobre e instaçôes de softwares e complementos (Wiki) :
 * [Anaconda](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es)
 
-### Linguagem de programação Python :
+### Linguagem de programação Python (repositório) :
 * ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
 ## 💻 Prática : geral 

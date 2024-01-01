@@ -23,8 +23,13 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 | Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 0 | 
 
+## 📚 Tópicos de estudos (Wiki) 
 
-* [install anaconda ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es)
+### Sobre e instaçôes de sogtwares e complementos :
+* [install anaconda ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es);
+
+### Sintaxe da linguagem python e geral :
+*[Pyhon - geral ]()
 
 ```python 
 import panda as pd 

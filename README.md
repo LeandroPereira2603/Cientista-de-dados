@@ -25,7 +25,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 ## 📚 Tópicos de estudos (Wiki) 
 
-### Sobre e instaçôes de sogtwares e complementos :
+### Sobre e instaçôes de softwares e complementos :
 * [install anaconda ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es);
 
 ### Linguagem de programação Python :

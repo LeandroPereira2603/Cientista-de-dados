@@ -13,12 +13,12 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
+|Descrição | Logotipo   | Totais |
 |:--: |:--:|:--:|
-| Projetos abandonados | 🔴 | 0 | 
-| Projetos em desenvolvimento    |  🟡  | 0 |
-| Projetos concluídos    |  🟢  | 0 |
-| Meus projetos Favoritos | ⭐ | 0  |
+| Abandonado | 🔴 | 0 | 
+| Em desenvolvimento    |  🟡  | 0 |
+| Concluídos    |  🟢  | 0 |
+| Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 0 | 
 
 ```python 

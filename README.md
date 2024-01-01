@@ -13,7 +13,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Totais |
+|Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 | 
 | Em desenvolvimento    |  🟡  | 0 |

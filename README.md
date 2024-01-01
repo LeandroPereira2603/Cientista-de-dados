@@ -31,6 +31,10 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 ### Linguagem de programação Python :
 * ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
+## 💻 Prática : geral 
+
+## Anaconda
+
 ```python 
 import panda as pd 
 import math * 

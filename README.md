@@ -30,7 +30,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 ### Ulizar o Anaconda navigator :
 * [ Criando ambiente  ]
 
-### Linguagem de programação Python (repositório) :
+### Linguagem de programação Python :
 * ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
 ## 💻 Prática : geral 

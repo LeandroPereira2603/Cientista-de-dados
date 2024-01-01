@@ -2,6 +2,8 @@
   Linguagens : R , Julia ,Python
  <br>
  Metodologia : Machine Learning , Deep Learning 
+ <br>
+ Software : Anaconda 
 
 ## Sobre a função do cientista de dados :
 

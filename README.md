@@ -21,7 +21,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 | Em desenvolvimento    |  🟡  | 0 |
 | Concluídos    |  🟢  | 0 |
 | Favorito | ⭐ | 0  |
-| Código Fonte - local do repositório | ☕| 0 | 
+| Código Fonte - local do repositório | ☕| 1 | 
 
 ## 📚 Tópicos de estudos (Wiki) 
 
@@ -29,7 +29,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 * [Anaconda](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es)
 
 ### Linguagem de programação Python :
-* [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
+* ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
 ```python 
 import panda as pd 

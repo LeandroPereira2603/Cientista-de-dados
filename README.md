@@ -28,8 +28,8 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 ### Sobre e instaçôes de sogtwares e complementos :
 * [install anaconda ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es);
 
-### Sintaxe da linguagem python e geral :
-*[Pyhon - geral ]()
+### Linguagem de programação Python :
+*[Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
 ```python 
 import panda as pd 

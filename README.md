@@ -1,9 +1,9 @@
 # Cientista-de-dados
-  Linguagens : R , Julia ,Python
- <br>
- Metodologias : Machine Learning , Deep Learning 
- <br>
- Softwares : Anaconda 
+* <strong> Linguagens </strong> : R , Julia ,Python
+
+ * <strong> Metodologias </strong> : Machine Learning , Deep Learning 
+
+ * <strong> Softwares </strong>  : Anaconda 
 
 ## Sobre a função do cientista de dados :
 

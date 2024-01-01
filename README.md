@@ -15,8 +15,9 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
-| Projetos em desenvolvimento    |  🛑  | 0 |
-| Projetos concluídos    |  💻  | 0 |
+| Projetos abandonados | 🔴 | 0 | 
+| Projetos em desenvolvimento    |  🟡  | 0 |
+| Projetos concluídos    |  🟢  | 0 |
 | Meus projetos Favoritos | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 0 | 
 

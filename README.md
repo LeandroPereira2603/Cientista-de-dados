@@ -25,10 +25,12 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 ## 📚 Tópicos de estudos  
 
+### Link de acesso ao arquivo do repositório explicaçôes ( extensão : md )
+
 ### Sobre e instaçôes de softwares e complementos (Wiki) :
-* [Anaconda](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Instala%C3%A7%C3%B4es)
+* [Anaconda]
 ### Anaconda navigator :
-* [ Criando ambiente  ](https://github.com/LeandroPereira2603/Cientista-de-dados/wiki/Anaconda-navigator)
+* [ Criando ambiente  ]
 
 ### Linguagem de programação Python :
 * ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)

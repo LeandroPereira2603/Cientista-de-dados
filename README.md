@@ -19,7 +19,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 | 
 | Em desenvolvimento    |  🟡  | 0 |
-| Concluídos    |  🟢  | 0 |
+| Concluídos    |  💻  | 0 |
 | Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 1 | 
 

@@ -7,7 +7,7 @@
 
 ## Sobre a função do cientista de dados :
 
-<p> O cientista de dados e responsável em fazer vários modelos conceituais , como um modelo de previsão de lucro , modelo de tendência , modelo de estatistica ,  podendo ter infinita possibilidade de criações de modelos .</p>
+<p> O cientista de dados e responsável em fazer vários modelos de dados , como um modelo de previsão de lucro , modelo de tendência , modelo de estatisticas ,  podendo ter infinita possibilidade de criações de modelos .</p>
 <p>
 tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decisão . </p>
 

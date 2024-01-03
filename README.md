@@ -25,7 +25,6 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 ## 📚 Tópicos de estudos  
 
-### Link de acesso ao arquivo do repositório explicaçôes ( extensão : md )
 
 ### Sobre e instaçôes de softwares e complementos (Wiki) :
 * [Anaconda]

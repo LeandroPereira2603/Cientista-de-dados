@@ -26,7 +26,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 ## 📚 Tópicos de estudos  
 
 
-### Sobre e instaçôes de softwares e complementos (Wiki) :
+### Sobre e instaçôes de softwares e complementos :
 * [Anaconda](https://github.com/LeandroPereira2603/Cientista-de-dados/blob/main/Explica%C3%A7%C3%B4es/Instala%C3%A7%C3%A3o.md)
 ### Anaconda navigator :
 * [ Criando ambiente  ](https://github.com/LeandroPereira2603/Cientista-de-dados/blob/main/Explica%C3%A7%C3%B4es/Anaconda-navigator.md)

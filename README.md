@@ -23,7 +23,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 | Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 1 | 
 
-## 📚 Tópicos de estudos  
+# 📚 Tópicos de estudos  
 
 
 ### Sobre e instaçôes de softwares e complementos :
@@ -34,7 +34,7 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 ### Linguagem de programação Python :
 * ☕ [Pyhon (geral) ](https://github.com/LeandroPereira2603/Python)
 
-## 💻 Prática : geral 
+# 💻 Prática
 
 ## Anaconda
 

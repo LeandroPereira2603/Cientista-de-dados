@@ -1,6 +1,6 @@
 # Cientista-de-dados
 
-**Nivel : Jr**
+**Nivel : Jr** :star:
 
 * <strong> Linguagens </strong> : R , Julia ,[ Python](https://github.com/LeandroPereira2603/Python)
 

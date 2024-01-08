@@ -15,13 +15,13 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
-|:--: |:--:|:--:|
-| Abandonado | 🔴 | 0 | 
-| Em desenvolvimento    |  🟡  | 0 |
-| Concluídos    |  💻  | 0 |
-| Favorito | ⭐ | 0  |
-| Código Fonte - local do repositório | ☕| 1 | 
+|Descrição | Logotipo   | 
+|:--: |:--:|
+| Abandonado | 🔴 | 
+| Em desenvolvimento    |  🟡  | 
+| Concluídos    |  💻  | 
+| Favorito | ⭐ | 
+| Código Fonte - local do repositório | ☕| 
 
 # 📚 Tópicos de estudos  
 

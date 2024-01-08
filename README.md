@@ -2,7 +2,7 @@
 
 **Nivel : Jr** :star;
 
-<p> Aqui terá todas os meus repositório sobre ciência de dados .</p>
+<p> Aqui terá todos os meus repositório sobre ciência de dados .</p>
 
 ## Ferramentas utilizadas 
 

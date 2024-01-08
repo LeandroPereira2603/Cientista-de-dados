@@ -1,4 +1,7 @@
 # Cientista-de-dados
+
+**Nivel : Jr**
+
 * <strong> Linguagens </strong> : R , Julia ,[ Python](https://github.com/LeandroPereira2603/Python)
 
  * <strong> Metodologias </strong> : Machine Learning , Deep Learning 

@@ -1,6 +1,6 @@
 # Cientista-de-dados
 
-**Nivel :** Jr :star:
+**Nivel :** Jr 
 
 <p> Aqui terá todos os meus repositório sobre ciência de dados .</p>
 

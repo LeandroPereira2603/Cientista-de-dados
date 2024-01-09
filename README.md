@@ -1,7 +1,5 @@
 # Cientista-de-dados
 
-**Nivel :** Jr 
-
 <p> Aqui terá todos os meus repositório sobre ciência de dados .</p>
 
 ## Ferramentas utilizadas 

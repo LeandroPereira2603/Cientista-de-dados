@@ -22,7 +22,6 @@ tendo a finalidade de ajudar a empresa a realizar uma especifica tomada de decis
 
 |Descrição | Logotipo   | 
 |:--: |:--:|
-| Abandonado | 🔴 | 
 | Em desenvolvimento    |  🟡  | 
 | Concluídos    |  💻  | 
 | Favorito | ⭐ | 
